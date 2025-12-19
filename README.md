@@ -6,7 +6,11 @@ I enjoy experimenting with different technologies to understand the systems behi
 
 ### Current Projects
 
+- **BogOS** - Arch based distribution built on the *Hyprland* compositor and a bespoke Quickshell desktop shell.
 - **[No Static](https://github.com/NILBOGtheSavior/no-static)** - Horror jam game built in Godot with procedural noise shaders and dynamic difficulty scaling.
+
+### Recent Projects
+
 - **[Poker Equity Neural Network](https://github.com/NILBOGtheSavior/poker-equity-nn)** - Feed forward neural network built with Pytorch.
 
 ### Interests
