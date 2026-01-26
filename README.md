@@ -22,5 +22,4 @@ I enjoy experimenting with different technologies to understand the systems behi
 
 ### Philosophy
 
-Observe. Build. Break. Learn.  
-The tools may change, but the process stays the same.
+RTFM
