@@ -6,7 +6,7 @@ I enjoy experimenting with different technologies to understand the systems behi
 
 ### Current Projects
 
-- **BogOS** - Arch based distribution built on the *Hyprland* compositor and a bespoke Quickshell desktop shell.
+- **[BogOS](https://github.com/NILBOGtheSavior/bog-os)** - Arch based distribution built on the *Hyprland* compositor and a bespoke Quickshell desktop shell.
 - **[No Static](https://github.com/NILBOGtheSavior/no-static)** - Horror jam game built in Godot with procedural noise shaders and dynamic difficulty scaling.
 
 ### Recent Projects
