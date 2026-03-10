@@ -2,7 +2,7 @@
 
 ### About me
 
-I enjoy experimenting with different technologies to understand the systems behind them. My projects often begin as learning exercises and grow into practical tools or experiences.
+I enjoy experimenting with different technologies to understand the systems behind them. My projects often begin as learning exercises and grow into practical tools or experiences. My favorite projects are those which I can incorporate into my daily workflow.
 
 ### Languages
 
